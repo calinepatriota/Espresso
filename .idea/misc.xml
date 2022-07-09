@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1953125" />
+        <entry key="../../Documents/studies/Android/testing-samples/ui/espresso/BasicSample/.gradle/caches/transforms-2/files-2.1/4102c377b7a8a929cfb8c6bcf858d486/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_item_user_recycler.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_listar_usuarios.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/layout/activity_new.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_new_rv.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
